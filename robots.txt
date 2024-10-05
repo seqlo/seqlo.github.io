@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://seqlo.github.io/bAh/sitemap.bAh.gz
